@@ -9,4 +9,4 @@ Implementations of different machine learning algorithms:
 * k-Gaussian Mixture Model
 * Bernoulli and Gaussian Naive Bayes
 * Linear SVM for binary and multi-class classification
-.* Trained through stochastic subgradient descent or stochastic coordinate dual ascent
+..* Trained through stochastic subgradient descent or stochastic coordinate dual ascent
